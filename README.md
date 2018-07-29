@@ -1,2 +1,4 @@
-- Course: [SI131] Linear Algebra
-- Type: Course Project
+## Sparse Representation Based Face Recognition
+- Type: [SI131] Linear Algebra Course Project
+- Language: MATLAB
+- Tutor: Peng Ding @ ShanghaiTech
